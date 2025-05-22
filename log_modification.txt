@@ -1,0 +1,8 @@
+Données reçues : 
+Données reçues : {"codeProduit":"P004","designation":"Produit Testtt","suite":"Suite Test","prixAchatHT":100,"totalHT":120,"TVA":20}
+Données reçues : 
+Données reçues : {"codeProduit":"P004","designation":"Produit Testttuhiuluioimliol","suite":"Suite Test","prixAchatHT":100,"totalHT":120,"TVA":20}
+Données reçues : 
+Données reçues : {"codeProduit":"P001","designation":"Ordinateur PortableE","suite":"EliteBook","prixAchatHT":600,"totalHT":900,"TVA":20}
+Données reçues : 
+Données reçues : {"codeProduit":"P001","designation":"Ordinateur Portable","suite":"EliteBook","prixAchatHT":600,"totalHT":900,"TVA":20}

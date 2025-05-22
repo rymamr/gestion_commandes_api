@@ -1,0 +1,339 @@
+Array
+(
+    [codeClient] => C002
+    [dateCommande] => 2025-03-26
+    [produits] => Array
+        (
+            [0] => Array
+                (
+                    [codeProduit] => P001
+                    [quantite] => 2
+                    [prixUnitaireHT] => 900.00
+                    [TVA] => 19
+                )
+
+            [1] => Array
+                (
+                    [codeProduit] => P002
+                    [quantite] => 2
+                    [prixUnitaireHT] => 1200.00
+                    [TVA] => 19
+                )
+
+        )
+
+)
+Array
+(
+    [codeClient] => C001
+    [dateCommande] => 2025-04-03
+    [produits] => Array
+        (
+            [0] => Array
+                (
+                    [codeProduit] => P001
+                    [quantite] => 8
+                    [prixUnitaireHT] => 900.00
+                    [TVA] => 19
+                )
+
+        )
+
+)
+Array
+(
+    [codeClient] => C002
+    [dateProforma] => 2025-04-03
+    [produits] => Array
+        (
+            [0] => Array
+                (
+                    [codeProduit] => P001
+                    [quantite] => 22
+                    [prixUnitaireHT] => 900.00
+                    [TVA] => 19
+                )
+
+        )
+
+)
+Array
+(
+    [codeClient] => C002
+    [dateProforma] => 2025-04-03
+    [produits] => Array
+        (
+            [0] => Array
+                (
+                    [codeProduit] => P001
+                    [quantite] => 22
+                    [prixUnitaireHT] => 900.00
+                    [TVA] => 19
+                )
+
+        )
+
+)
+Array
+(
+    [codeClient] => C002
+    [dateProforma] => 2025-04-03
+    [produits] => Array
+        (
+            [0] => Array
+                (
+                    [codeProduit] => P001
+                    [quantite] => 22
+                    [prixUnitaireHT] => 900.00
+                    [TVA] => 19
+                )
+
+        )
+
+)
+Array
+(
+    [codeClient] => C002
+    [dateProforma] => 2025-04-03
+    [produits] => Array
+        (
+            [0] => Array
+                (
+                    [codeProduit] => P001
+                    [quantite] => 22
+                    [prixUnitaireHT] => 900.00
+                    [TVA] => 19
+                )
+
+        )
+
+)
+Array
+(
+    [codeClient] => C002
+    [dateProforma] => 2025-04-03
+    [produits] => Array
+        (
+            [0] => Array
+                (
+                    [codeProduit] => P001
+                    [quantite] => 22
+                    [prixUnitaireHT] => 900.00
+                    [TVA] => 19
+                )
+
+        )
+
+)
+Array
+(
+    [codeClient] => C001
+    [dateProforma] => 2025-04-29
+    [produits] => Array
+        (
+            [0] => Array
+                (
+                    [codeProduit] => P001
+                    [quantite] => 9
+                    [prixUnitaireHT] => 900.00
+                    [TVA] => 19
+                )
+
+        )
+
+)
+Array
+(
+    [codeClient] => C001
+    [dateProforma] => 2025-04-29
+    [produits] => Array
+        (
+            [0] => Array
+                (
+                    [codeProduit] => P001
+                    [quantite] => 9
+                    [prixUnitaireHT] => 900.00
+                    [TVA] => 19
+                )
+
+        )
+
+)
+Array
+(
+    [codeClient] => C001
+    [dateProforma] => 2025-04-29
+    [produits] => Array
+        (
+            [0] => Array
+                (
+                    [codeProduit] => P001
+                    [quantite] => 9
+                    [prixUnitaireHT] => 900.00
+                    [TVA] => 19
+                )
+
+        )
+
+)
+Array
+(
+    [codeClient] => C001
+    [dateProforma] => 2025-04-29
+    [produits] => Array
+        (
+            [0] => Array
+                (
+                    [codeProduit] => P001
+                    [quantite] => 9
+                    [prixUnitaireHT] => 900.00
+                    [TVA] => 19
+                )
+
+        )
+
+)
+Array
+(
+    [codeClient] => C001
+    [dateProforma] => 2025-04-29
+    [produits] => Array
+        (
+            [0] => Array
+                (
+                    [codeProduit] => P001
+                    [quantite] => 9
+                    [prixUnitaireHT] => 900.00
+                    [TVA] => 19
+                )
+
+        )
+
+)
+Array
+(
+    [codeClient] => C001
+    [dateProforma] => 2025-04-29
+    [produits] => Array
+        (
+            [0] => Array
+                (
+                    [codeProduit] => P001
+                    [quantite] => 9
+                    [prixUnitaireHT] => 900.00
+                    [TVA] => 19
+                )
+
+        )
+
+)
+Array
+(
+    [codeClient] => C001
+    [dateProforma] => 2025-04-29
+    [produits] => Array
+        (
+            [0] => Array
+                (
+                    [codeProduit] => P001
+                    [quantite] => 9
+                    [prixUnitaireHT] => 900.00
+                    [TVA] => 19
+                )
+
+        )
+
+)
+Array
+(
+    [codeClient] => C001
+    [dateProforma] => 2025-04-29
+    [produits] => Array
+        (
+            [0] => Array
+                (
+                    [codeProduit] => P001
+                    [quantite] => 9
+                    [prixUnitaireHT] => 900.00
+                    [TVA] => 19
+                )
+
+        )
+
+)
+Array
+(
+    [codeClient] => C001
+    [dateProforma] => 2025-04-29
+    [produits] => Array
+        (
+            [0] => Array
+                (
+                    [codeProduit] => P001
+                    [quantite] => 9
+                    [prixUnitaireHT] => 900.00
+                    [TVA] => 19
+                )
+
+        )
+
+)
+Array
+(
+    [codeClient] => C001
+    [dateProforma] => 2025-04-29
+    [produits] => Array
+        (
+            [0] => Array
+                (
+                    [codeProduit] => P001
+                    [quantite] => 9
+                    [prixUnitaireHT] => 900.00
+                    [TVA] => 19
+                )
+
+        )
+
+)
+Array
+(
+    [codeClient] => C001
+    [dateCommande] => 2025-04-29
+    [produits] => Array
+        (
+            [0] => Array
+                (
+                    [codeProduit] => P001
+                    [quantite] => 9
+                    [prixUnitaireHT] => 900.00
+                    [TVA] => 19
+                )
+
+        )
+
+)
+Array
+(
+    [codeClient] => C001
+    [dateCommande] => 2025-05-01
+    [produits] => Array
+        (
+            [0] => Array
+                (
+                    [codeProduit] => P001
+                    [quantite] => 9
+                    [prixUnitaireHT] => 900.00
+                    [TVA] => 19
+                )
+
+            [1] => Array
+                (
+                    [codeProduit] => P002
+                    [quantite] => 9
+                    [prixUnitaireHT] => 1200.00
+                    [TVA] => 19
+                )
+
+        )
+
+)

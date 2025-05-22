@@ -1,0 +1,107 @@
+Données reçues : 
+Données reçues : {"codeClient":"C004","nomClient":"Toufik Smail"}
+Données reçues : 
+Données reçues : {"codeClient":"C005","nomClient":"Ryma AMIAR"}
+Données reçues : 
+Données reçues : {"codeProduit":"P004","designation":"Souris","suite":"OPTICAL","prixAchatHT":5000,"totalHT":67000,"TVA":19}
+Données reçues : {"codeProduit":"P004","designation":"Souris","suite":"OPTICAL","prixAchatHT":5000,"totalHT":67000,"TVA":19}
+Données reçues : {"codeProduit":"P004","designation":"Souris","suite":"OPTICAL","prixAchatHT":5000,"totalHT":67000,"TVA":19}
+Données reçues : {"codeProduit":"P004","designation":"Souris","suite":"OPTICAL","prixAchatHT":5000,"totalHT":67000,"TVA":19}
+Données reçues : {"codeProduit":"P004","designation":"Souris","suite":"OPTICAL","prixAchatHT":5000,"totalHT":67000,"TVA":19}
+Données reçues : {"codeProduit":"P004","designation":"Souris","suite":"OPTICAL","prixAchatHT":5000,"totalHT":67000,"TVA":19}
+Données reçues : 
+Données reçues : {"codeProduit":"P004","designation":"Souris","suite":"OPTICAL","prixAchatHT":5000,"totalHT":67000,"TVA":19}
+Données reçues : {"codeProduit":"P004","designation":"Souris","suite":"OPTICAL","prixAchatHT":5000,"totalHT":67000,"TVA":19}
+Données reçues : {"codeProduit":"P004","designation":"Souris","suite":"OPTICAL","prixAchatHT":5000,"totalHT":67000,"TVA":19}
+Données reçues : {"codeProduit":"P004","designation":"Souris","suite":"OPTICAL","prixAchatHT":5000,"totalHT":67000,"TVA":19}
+Données reçues : {"codeProduit":"P004","designation":"Souris","suite":"OPTICAL","prixAchatHT":5000,"totalHT":67000,"TVA":19}
+Données reçues : {"codeProduit":"P004","designation":"Souris","suite":"OPTICAL","prixAchatHT":5000,"totalHT":67000,"TVA":19}
+Données reçues : {"codeProduit":"P004","designation":"Souris","suite":"OPTICAL","prixAchatHT":5000,"totalHT":67000,"TVA":19}
+Données reçues : 
+Données reçues : {"codeProduit":"P004","designation":"SOURIS","suite":"RGR","prixAchatHT":4565,"totalHT":4554,"TVA":19}
+Données reçues : {"codeProduit":"P004","designation":"SOURIS","suite":"RGR","prixAchatHT":4565,"totalHT":4554,"TVA":19}
+Données reçues : {"codeProduit":"P004","designation":"SOURIS","suite":"RGR","prixAchatHT":4565,"totalHT":4554,"TVA":19}
+Données reçues : {"codeProduit":"P004","designation":"SOURIS","suite":"RGR","prixAchatHT":4565,"totalHT":4554,"TVA":19}
+Données reçues : {"codeProduit":"P004","designation":"SOURIS","suite":"RGR","prixAchatHT":4565,"totalHT":4554,"TVA":19}
+Données reçues : {"codeProduit":"P004","designation":"SOURIS","suite":"RGR","prixAchatHT":4565,"totalHT":4554,"TVA":19}
+Données reçues : {"codeProduit":"P004","designation":"SOURIS","suite":"RGR","prixAchatHT":4565,"totalHT":4554,"TVA":19}
+Données reçues : {"codeProduit":"P004","designation":"SOURIS","suite":"RGR","prixAchatHT":4565,"totalHT":4554,"TVA":19}
+Données reçues : {"codeProduit":"P004","designation":"SOURIS","suite":"RGR","prixAchatHT":4565,"totalHT":4554,"TVA":19}
+Données reçues : {"codeProduit":"P004","designation":"SOURIS","suite":"RGR","prixAchatHT":4565,"totalHT":4554,"TVA":19}
+Données reçues : {"codeProduit":"P004","designation":"SOURIS","suite":"RGR","prixAchatHT":4565,"totalHT":4554,"TVA":19}
+Données reçues : {"codeProduit":"P004","designation":"SOURIS","suite":"RGR","prixAchatHT":4565,"totalHT":4554,"TVA":19}
+Données reçues : 
+Données reçues : {"codeProduit":"P004","designation":"SOURIS","suite":"RGR","prixAchatHT":4565,"totalHT":4554,"TVA":19}
+Données reçues : {"codeProduit":"P004","designation":"SOURIS","suite":"RGR","prixAchatHT":4565,"totalHT":4554,"TVA":19}
+Données reçues : {"codeProduit":"P004","designation":"SOURIS","suite":"RGR","prixAchatHT":4565,"totalHT":4554,"TVA":19}
+Données reçues : 
+Données reçues : {"codeProduit":"P004","designation":"SOURIS","suite":"FGJI","prixAchatHT":7800,"totalHT":9000,"TVA":19}
+Données reçues : 
+Données reçues : {"codeProduit":"P004","designation":"SOURIS","suite":"FGJI","prixAchatHT":7800,"totalHT":9000,"TVA":19}
+Données reçues : {"codeProduit":"P004","designation":"SOURIS","suite":"FGJI","prixAchatHT":7800,"totalHT":9000,"TVA":19}
+Données reçues : {"codeProduit":"P004","designation":"SOURIS","suite":"FGJI","prixAchatHT":7800,"totalHT":9000,"TVA":19}
+Données reçues : {"codeProduit":"P004","designation":"SOURIS","suite":"FGJI","prixAchatHT":7800,"totalHT":9000,"TVA":19}
+Données reçues : {"codeProduit":"P004","designation":"SOURIS","suite":"FGJI","prixAchatHT":7800,"totalHT":9000,"TVA":19}
+Données reçues : {"codeProduit":"P004","designation":"SOURIS","suite":"FGJI","prixAchatHT":7800,"totalHT":9000,"TVA":19}
+Données reçues : {"codeProduit":"P004","designation":"SOURIS","suite":"FGJI","prixAchatHT":7800,"totalHT":9000,"TVA":19}
+Données reçues : {"codeProduit":"P004","designation":"SOURIS","suite":"FGJI","prixAchatHT":7800,"totalHT":9000,"TVA":19}
+Données reçues : {"codeProduit":"P004","designation":"SOURIS","suite":"FGJI","prixAchatHT":7800,"totalHT":9000,"TVA":19}
+Données reçues : 
+Données reçues : {"codeProduit":"P004","designation":"SOURIS","suite":"FGJI","prixAchatHT":7800,"totalHT":9000,"TVA":19}
+Données reçues : 
+Données reçues : {"codeProduit":"P004","designation":"SOURIS","suite":"FGFG","prixAchatHT":7800,"totalHT":3090,"TVA":19}
+Données reçues : {
+  "codeProduit": "P004",
+  "designation": "Produit Test",
+  "suite": "Suite Test",
+  "prixAchatHT": 100,
+  "totalHT": 120,
+  "TVA": 20
+}
+
+Données reçues : {
+  "codeProduit": "P004",
+  "designation": "Produit Test",
+  "suite": "Suite Test",
+  "prixAchatHT": 100,
+  "totalHT": 120,
+  "TVA": 20
+}
+
+Données reçues : 
+Données reçues : {"codeProduit":"P004","designation":"SOURIS","suite":"FGF","prixAchatHT":7800,"totalHT":5900,"TVA":19}
+Données reçues : 
+Données reçues : {"codeClient":"006","nomClient":"SMAIL Toufik"}
+Données reçues : {"codeClient":"C001","nomClient":"Hhhhh"}
+Données reçues : {"codeClient":"C001","nomClient":"Hhhhh"}
+Données reçues : {"codeClient":"C001","nomClient":"Hhhhh"}
+Données reçues : {"codeClient":"C001","nomClient":"Hhhhh"}
+Données reçues : {"codeClient":"C001","nomClient":"Hhhhh"}
+Données reçues : {"codeClient":"C001","nomClient":"Hhhhh"}
+Données reçues : {"codeClient":"C001","nomClient":"Hhhhh"}
+Données reçues : {"codeClient":"C001","nomClient":"Hhhhh"}
+Données reçues : {"codeClient":"C001","nomClient":"Hhhhh"}
+Données reçues : {"codeClient":"C001","nomClient":"Hhhhh"}
+Données reçues : {"codeClient":"C001","nomClient":"Hhhhh"}
+Données reçues : {"codeClient":"C007","nomClient":"AMIAR"}
+Données reçues : {"codeClient":"C009","nomClient":"Mme Smail"}
+Données reçues : 
+Données reçues : {"codeClient":"0015","nomClient":"MME SMAIL"}
+Données reçues : 
+Données reçues : {"codeClient":"C004","nomClient":"Amiar","prenomClient":"Ryma","dateNaissance":"2001-02-26","email":"rymaraima@gmail.com","telephone":"0659159269"}
+Données reçues : 
+Données reçues : {"codeClient":"C004","nomClient":"Amiar","prenomClient":"Ryma","dateNaissance":"2001-02-26","email":"rymaraima@gmail.com","telephone":"0659159269"}
+Données reçues : 
+Données reçues : {"codeClient":"C001","nomClient":"Amiar","prenomClient":"Ryma","dateNaissance":"2001-02-26","email":"rymaraima@gmail.com","telephone":"0659159269"}
+Données reçues : {"codeClient":"C001","nomClient":"Amiar","prenomClient":"Ryma","dateNaissance":"2001-02-26","email":"rymaraima@gmail.com","telephone":"0659159269"}
+Données reçues : {"codeClient":"C001","nomClient":"Amiar","prenomClient":"Ryma","dateNaissance":"2001-02-26","email":"rymaraima@gmail.com","telephone":"0659159269"}
+Données reçues : {"codeClient":"C001","nomClient":"Amiar","prenomClient":"Ryma","dateNaissance":"2001-02-26","email":"rymaraima@gmail.com","telephone":"0659159269"}
+Données reçues : {"codeClient":"C001","nomClient":"Amiar","prenomClient":"Ryma","dateNaissance":"2001-02-26","email":"rymaraima@gmail.com","telephone":"0659159269"}
+Données reçues : 
+Données reçues : {"codeClient":"C001","nomClient":"Amiar","prenomClient":"Ryma","dateNaissance":"2001-02-26","email":"rymaraima@gmail.com","telephone":"0659159269"}
+Données reçues : {"codeClient":"C001","nomClient":"Amiar","prenomClient":"Ryma","dateNaissance":"2001-02-26","email":"rymaraima@gmail.com","telephone":"0659159269"}
+Données reçues : {"codeClient":"C001","nomClient":"Amiar","prenomClient":"Ryma","dateNaissance":"2001-02-26","email":"rymaraima@gmail.com","telephone":"0659159269"}
+Données reçues : {"codeClient":"C001","nomClient":"Amiar","prenomClient":"Ryma","dateNaissance":"2001-02-26","email":"rymaraima@gmail.com","telephone":"0659159269"}
+Données reçues : {"codeClient":"C001","nomClient":"Amiar","prenomClient":"Ryma","dateNaissance":"2001-02-26","email":"rymaraima@gmail.com","telephone":"0659159269"}
+Données reçues : 
+Données reçues : {"codeClient":"C006","nomClient":"Amiar","prenomClient":"Ryma","dateNaissance":"2001-02-26","email":"rymaraima@gmail.com","telephone":"0659159269"}
