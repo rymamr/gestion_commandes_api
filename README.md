@@ -76,7 +76,7 @@ Cette API est utilisée par une application mobile React Native :
 Exemple d’URL d’appel depuis l’application :
 
 ```url
-http://192.168.1.100/gestion_commandes_api/produits.php
+http://192.168.1.13/gestion_commandes_api/produits.php
 ```
 
 > Remplacez l’adresse IP par l’IP locale de votre PC  
