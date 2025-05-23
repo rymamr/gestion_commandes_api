@@ -10,7 +10,7 @@ Elle est utilisée avec une application mobile React Native.
 - 🔐 Authentification
 - 📦 Produits : ajout, suppression, modification
 - 👥 Clients : gestion complète
-- 📋 Commandes : création et suivi
+- 📋 Commandes : création 
 - 🧾 Proformas
 
 ---
