@@ -20,7 +20,7 @@ $password = password_hash($data->password, PASSWORD_DEFAULT);
 $check = $conn->query("SELECT * FROM users WHERE email = '$email'");
 if ($check->num_rows > 0) {
     echo json_encode(["success" => false, "message" => "Cet email est déjà utilisé"]);
-    exit;
+    exit; 
 }
 
 // Insère le nouvel utilisateur

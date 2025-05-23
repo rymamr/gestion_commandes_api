@@ -8,7 +8,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
     http_response_code(200);
     echo json_encode(["message" => "Requête OPTIONS reçue"]);
     exit();
-}
+} 
 
 include 'db.php';
  
